@@ -1,6 +1,6 @@
 # Project
 
-This was my first React Project and is currently hosted in https://lciappi.github.io/task-manager/
+This was my first React Project and is currently hosted at https://lciappi.github.io/task-manager/
 
 
 ## Available Scripts
